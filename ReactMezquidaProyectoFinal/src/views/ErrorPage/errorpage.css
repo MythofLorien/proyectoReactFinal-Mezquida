@@ -1,0 +1,18 @@
+.error-page-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.error-page-container h2{
+    margin-top: 4vh;
+}
+.error-page-container h3{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.253);
+    margin-top: 15vh;
+}
+
+.error-page-container .btn-catalog{
+    margin-top: 5vh;
+}

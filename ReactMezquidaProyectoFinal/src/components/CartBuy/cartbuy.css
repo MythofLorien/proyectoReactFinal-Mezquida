@@ -1,0 +1,144 @@
+.card-cartBuy {
+    width: 100%;
+    height: auto;
+}
+
+.card-cartBuy .btnBuy {
+    margin: 10px 20px 20px 20px;
+}
+
+.buyDetailContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+}
+
+.detail1Container,
+.detail2Container,
+.detail3Container {
+    display: flex;
+    direction: row;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.detail2Container {
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+}
+
+.card-cartBuy h4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.card-cartBuy h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.card-cartBuy .cartBuyTitle h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(2, 2, 119);
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid rgba(92, 91, 91, 0.219);
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.modal-content {
+    position: relative;
+    background-color: rgb(219, 227, 238);
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 400px;
+    justify-content: flex-end;
+}
+
+.modal-content label {
+    margin-right: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(2, 2, 119);
+    font-size: 18px;
+}
+
+.modal-content input {
+    width: 200px; /* Ancho deseado para los inputs */
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+    border: 1px solid #ccc;
+}
+.modal-content .input-error input {
+    border: 2px solid #ff0000;
+  }
+  
+  .modal-content .error {
+    color: red;
+    margin-top: 5px;
+  }
+.modal-content button {
+    margin-top: 10px;
+}
+
+.modal-content h3 {
+    margin-bottom: 30px;
+}
+
+.modal-content .close-btn {
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+}
+
+
+.card-cartBuy-disable h2{
+    color: rgba(41, 41, 41, 0.329);
+    border-bottom: 1px solid rgba(92, 91, 91, 0.096);
+}
+.card-cartBuy-disable h4{
+    color: rgba(99, 99, 99, 0.329);
+    font-size: 18px;
+    margin: 15px;
+}

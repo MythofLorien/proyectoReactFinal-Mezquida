@@ -1,0 +1,89 @@
+.contactPageContainer h1{
+    text-align: center;
+    margin-top:10px;
+}
+.gridContacto {
+    display: grid;
+    align-items: center;
+    margin-top: 20px;
+    grid-template-columns: 1fr 6fr;
+    grid-template-rows: repeat(4, 1fr);
+    grid-template-areas:
+        "tel1   tel2"
+        "tel1   tel3"
+        "wapp   wapp1"
+        "email  email1";
+    margin-bottom: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly
+}
+.gridContacto .info_contacto {
+    margin: 5px;
+}
+
+.gridContacto .tel1 {
+    grid-area: tel1;
+}
+
+.gridContacto .tel2 {
+    grid-area: tel2;
+}
+
+.gridContacto .tel3 {
+    grid-area: tel3;
+}
+
+.gridContacto .wapp {
+    grid-area: wapp;
+}
+
+.gridContacto .wapp1 {
+    grid-area: wapp1;
+}
+
+.gridContacto .email {
+    grid-area: email;
+}
+
+.gridContacto .email1 {
+    grid-area: email1;
+}
+.mt-5{
+    width: 100%;
+}
+.col-md-6 h4 {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    color: black;
+    text-align: start;
+    margin-bottom: 10px;
+}
+.ubicacion h4{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+.ubicacion {
+    display: grid;
+    justify-items: center;
+}
+
+.ubicacion a {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.ubicacion iframe {
+    width: 60vw;
+    height: 40vw;
+}

@@ -1,0 +1,67 @@
+.cardDetailContainer{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row;
+}
+.cardDetailL{
+    width:30rem;
+    height: auto;
+}
+.detailInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.btnAdd{
+    margin-right: 10px;
+}
+.cardDetailR{
+    max-width: 40rem;
+    margin: 10px;
+    height: auto;
+    
+}
+.cardDetailL img {
+    scale: none;
+    margin-top: 8px;
+    height: 8rem;
+}
+.shopMenu{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    height: auto;
+}
+.talleLabel{
+    margin-right: 43px;
+    margin-bottom: 5px;
+}
+.cantidadLabel{
+    margin-right: 10px;
+}
+.cardDetailL h4 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: center;
+    color: rgb(2, 2, 119);
+}
+
+.cardDetailL a {
+    margin: auto;
+    margin-top: 8px;
+}
+.card-body p{
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.card-body span strong{
+    color:rgb(2, 2, 119);
+}

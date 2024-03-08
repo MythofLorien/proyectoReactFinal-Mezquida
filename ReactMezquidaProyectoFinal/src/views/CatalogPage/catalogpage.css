@@ -1,0 +1,77 @@
+.catalogpage-container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.itemlist-container {
+    flex: 1;
+}
+
+.filter-menu {
+    width: 300px;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: #f2f2f2;
+    height:auto;
+    color: rgb(2, 2, 119);
+    border-right: 1px solid rgba(128, 128, 128, 0.438);
+    border-top: 1px solid rgba(128, 128, 128, 0.438);
+    border-radius: 4px;
+}
+
+.filter-menu h2 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.filter-menu h3 {
+    padding-bottom: 20px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+.filter-menu .MuiFormControlLabel-root {
+    margin-bottom: 10px;
+}
+
+.filter-menu .MuiCheckbox-root {
+    padding: 4px;
+}
+
+.filter-menu .MuiTypography-root {
+    font-size: 14px;
+}
+
+.sizes-container, .brands-container{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.price-container{
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.inputs-sliders-container{
+    display: flex;
+    justify-content: space-between
+
+}
+
+.inputs-sliders-container input{
+    width: 70px;
+}
+
+.inputs-sliders-container label{
+    margin-right: 8px;
+}

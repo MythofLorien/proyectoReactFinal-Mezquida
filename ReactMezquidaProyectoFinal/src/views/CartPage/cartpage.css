@@ -1,0 +1,17 @@
+.cartPageContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.cartBuyContainer{
+    width: 25%;
+    min-width: 280px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.cartItemContainer{
+    width: 70%;
+}

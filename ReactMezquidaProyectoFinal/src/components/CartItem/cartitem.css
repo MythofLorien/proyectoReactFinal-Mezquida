@@ -1,0 +1,142 @@
+.card-cart {
+    width: 100%;
+    margin-left: 1vw;
+}
+
+.product-info {
+    display: flex;
+    align-items: center;
+}
+
+.product-info span {
+    font-weight: 100px;
+    color: gray;
+    font-size: 15px;
+}
+
+.product-info .btn-erase {
+    color: rgb(38, 38, 223);
+    font-size: 10px;
+    background: none;
+    border: none;
+    padding: 0;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+.product-info strong {
+    font-weight: bold;
+    color: black;
+    font-size: 16px;
+}
+
+.product-info .ordenPrimero {
+    width: 20%;
+}
+
+.product-info .ordenSegundo {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+
+}
+.product-info .ordenSegundo .product-name-container{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+.product-info .ordenSegundo .product-name-container h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(2, 2, 119);
+    font-size: 20px;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+    border-bottom: none;
+}
+
+.product-info .ordenTercero {
+    width: 20%;
+}
+.product-info .ordenTercero .quantity-container h4{
+    font-size: 18px;
+    margin-top: 5px;
+}
+.product-info .ordenCuarto {
+    width: 20%;
+}
+
+.product-info .product-image {
+    width: 90%;
+    height: auto;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.product-info .product-name {
+    font-weight: bold;
+}
+
+.product-info .quantity-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 8rem;
+}
+
+.product-info .quantity-btn {
+    width: 18px;
+}
+
+.product-info .quantity-actual {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.product-info .quantity-input {
+    width: 40px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.product-info .price-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.empty-cart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 17px;
+}
+
+.empty-cart img {
+    margin-top: 20px;
+}
+
+.empty-cart h3 {
+    color: #0000009c;
+    font-size: 30px;
+}
+
+.empty-cart h4 {
+    color: rgba(0, 0, 0, 0.380);
+    font-size: 18px;
+}
+
+.empty-cart a.btn {
+    margin-bottom: 20px;
+}

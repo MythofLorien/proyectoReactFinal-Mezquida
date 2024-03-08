@@ -1,0 +1,478 @@
+[
+    {
+        "id": 15,
+        "nombre": "AirMax Excee",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/AirMaxExcee.png?alt=media&token=97211313-4283-48f8-bcd9-68ae6350bd8c",
+        "marca": "Nike",
+        "stock": [
+            {
+                "talle": 39,
+                "cantidad": 10
+            },
+            {
+                "talle": 40,
+                "cantidad": 5
+            },
+            {
+                "talle": 41,
+                "cantidad": 6
+            },
+            {
+                "talle": 42,
+                "cantidad": 7
+            }
+        ],
+        "precio": 49000,
+        "descripcion": "Lucí con estilo en tus entrenamientos o en tu día a día gracias a las Zapatillas Nike Air Max Excee, su tecnología Air max te brinda mejores y amortiguadas pisadas que te harán sentir seguro y confiado en cualquier momento que las lleves puestas."
+    },
+    {
+        "id": 2,
+        "nombre": "Legend Essential 2",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/LegendEssencial.png?alt=media&token=068cc037-2a01-4015-b360-0ae2f24f8a70",
+        "marca": "Nike",
+        "stock": [
+            {
+                "talle": 38,
+                "cantidad": 1
+            },
+            {
+                "talle": 39,
+                "cantidad": 5
+            },
+            {
+                "talle": 41,
+                "cantidad": 8
+            },
+            {
+                "talle": 42,
+                "cantidad": 10
+            },
+            {
+                "talle": 43,
+                "cantidad": 4
+            }
+        ],
+        "precio": 31200,
+        "descripcion": "Nike Legend Essential 2 viene equipado con un talón plano y estable, flexibilidad debajo de la punta y soporte de lado a lado. Gracias a su gran agarre, puedes hacer levantamientos, entrenamientos de alta intensidad, conquistar una clase o fortalecerte en las máquinas."
+    },
+    {
+        "id": 3,
+        "nombre": "Downshifter 12",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/DownShifter.png?alt=media&token=faba64f1-383d-466a-9a43-14ee0402c101",
+        "marca": "Nike",
+        "stock": [
+            {
+                "talle": 39,
+                "cantidad": 3
+            },
+            {
+                "talle": 40,
+                "cantidad": 4
+            },
+            {
+                "talle": 41,
+                "cantidad": 1
+            }
+        ],
+        "precio": 30800,
+        "descripcion": "Da esos primeros pasos en tu viaje de carrera con las Nike Downshifter 12. Tiene un ajuste de apoyo y una pisada estable, con una sensación de ligereza que pasa fácilmente de tu entrenamiento a pasar el rato. Este continúa nuestro viaje de sostenibilidad con un diseño hecho con al menos un 20 % de contenido reciclado por peso. Tu viaje comienza. Ponte los cordones y sal a la carretera."
+    },
+    {
+        "id": 4,
+        "nombre": "Revolution 6 Next Nature",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/revolution6NextNature.png?alt=media&token=079af04b-d4b7-4e15-8dd2-ff56196b4b48",
+        "marca": "Nike",
+        "stock": [
+            {
+                "talle": 40,
+                "cantidad": 9
+            },
+            {
+                "talle": 42,
+                "cantidad": 10
+            }
+        ],
+        "precio": 27000,
+        "descripcion": "Suma más y más kilómetros con tus Zapatillas Nike Revolution 6 Next Nature, que aportan amortiguación y confort a cada paso que des. Su capellada transpirable y suela diseñada por computadora para una mejor tracción son ideales hasta para los corredores más exigentes."
+    },
+    {
+        "id": 18,
+        "nombre": "Waffle Debut",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/waffleDebut.png?alt=media&token=19ec0c65-a396-4dec-86a4-f7427eea3477",
+        "marca": "Nike",
+        "stock": [
+            {
+                "talle": 38,
+                "cantidad": 1
+            },
+            {
+                "talle": 40,
+                "cantidad": 5
+            },
+            {
+                "talle": 42,
+                "cantidad": 6
+            },
+            {
+                "talle": 44,
+                "cantidad": 3
+            }
+        ],
+        "precio": 28000,
+        "descripcion": "Las Zapatillas Nike Waffle Debut son la representación retro de excelencia. Rememorando la moda de gamuza suave con nylon que vuelve con la entresuela 'wedge' renovada, se sienten increíblemente suaves. Se mantiene la suela tipo waffle comprobada, genuina y confiable que agrega tracción, durabilidad y estilo a tus pasos. Los Swooshes se envuelven alrededor del talón, formando una presilla de agarre y aporta una estética práctica a la función de poner y quitar las zapatillas. El toque final en el cuello acolchado de corte low luce elegante y se siente extremadamente cómodo. Mucho estilo retro, elegancia y comodidad para un calzado. Ponételas para completar tu look urbano sport de trabajo o para una juntada con amigos. Como sea, siempre estás de 10 con ellas."
+    },
+    {
+        "id": 6,
+        "nombre": "Royal Glide",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/royalGlide.png?alt=media&token=dc8dde2a-b125-47bc-b5c4-a8c0288bbe4f",
+        "marca": "Reebok",
+        "stock": [
+            {
+                "talle": 39,
+                "cantidad": 5
+            },
+            {
+                "talle": 42,
+                "cantidad": 3
+            },
+            {
+                "talle": 43,
+                "cantidad": 2
+            }
+        ],
+        "precio": 22700,
+        "descripcion": "La Reebok Royal Glide forma parte de la colección Royal Classic y presenta una silueta atemporal de corte bajo que te ofrece un ajuste personalizado. Viene en una variedad de combinaciones de colores y suelas que añade un extra de estilo a tus looks más informales."
+    },
+    {
+        "id": 7,
+        "nombre": "Flexagon Energy Train",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/flexagonEnergyTrain.png?alt=media&token=8011d7e3-b5fb-45c3-bb8a-4e57507cbd94",
+        "marca": "Reebok",
+        "stock": [
+            {
+                "talle": 40,
+                "cantidad": 10
+            },
+            {
+                "talle": 42,
+                "cantidad": 8
+            },
+            {
+                "talle": 41,
+                "cantidad": 6
+            },
+            {
+                "talle": 43,
+                "cantidad": 5
+            }
+        ],
+        "precio": 18000,
+        "descripcion": "ZAPATILLAS LIGERAS PARA ENTRENAR QUE FORMAN PARTE DE LA COLECCIÓN [REE]CYCLED DE REEBOK Flota como una mariposa, entrena de forma salvaje. Estos tenis de training Reebok para hombre presentan una estructura liviana, diseñada a la medida para mantenerte ligero cuando tu entrenamiento requiere movimientos dinámicos. La mediasuela FuelFoam combina una sensación de amortiguación con pasos reactivos. Una plantilla de espuma viscoelástica se adapta a la forma de tu pie para un ajuste perfecto y una sensación de lujo. Las ranuras flexibles en la suela te brindan una pisada natural."
+    },
+    {
+        "id": 10,
+        "nombre": "Energylux 3.0",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/energylux3.png?alt=media&token=4eb2ef76-a3df-4b66-8e16-3f2ecaaf027e",
+        "marca": "Reebok",
+        "stock": [
+            {
+                "talle": 39,
+                "cantidad": 3
+            },
+            {
+                "talle": 40,
+                "cantidad": 0
+            }
+        ],
+        "precio": 21000,
+        "descripcion": "TENIS CON ESTILO PARA USO DIARIO Y LA COMODIDAD DE LA ESPUMA VISCOELÁSTICA Cuando tienes un estilo de vida versátil, necesitas tenis que puedan seguir el ritmo. Estos tenis de running Reebok para hombre están a la altura del reto, con un diseño que puede mantener tus pies cómodos en casi cualquier situación. La mediasuela de EVA proporciona amortiguación adicional debajo del pie para una comodidad duradera. Se sienten como si estuvieran hechos específicamente para ti, gracias a su plantilla de espuma viscoelástica que se ajusta a la forma de tu pie."
+    },
+    {
+        "id": 9,
+        "nombre": "Royal Techque",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/royalTechque.png?alt=media&token=c16d9312-621c-49e2-9b03-c2daa3c3ad93",
+        "marca": "Reebok",
+        "stock": [
+            {
+                "talle": 35,
+                "cantidad": 8
+            },
+            {
+                "talle": 36,
+                "cantidad": 5
+            },
+            {
+                "talle": 37,
+                "cantidad": 6
+            }
+        ],
+        "precio": 23700,
+        "descripcion": "Combina tu estilo con tus principios. Siéntete tan bien como te ves con estas zapatillas Royal Techque T para mujer. Los icónicos detalles grabados en la entresuela y las franjas laterales en contraste añaden un diseño clásico de Reebok. La parte superior texturizada se inspira en la cultura del skate para mantener las cosas reales."
+    },
+    {
+        "id": 8,
+        "nombre": "Court Royale 2",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/courtRoyal2.png?alt=media&token=b8c736bd-b875-45a0-b4a7-d817c3b78125",
+        "marca": "Nike",
+        "stock": [
+            {
+                "talle": 38,
+                "cantidad": 1
+            },
+            {
+                "talle": 39,
+                "cantidad": 6
+            },
+            {
+                "talle": 41,
+                "cantidad": 5
+            },
+            {
+                "talle": 40,
+                "cantidad": 3
+            },
+            {
+                "talle": 42,
+                "cantidad": 8
+            }
+        ],
+        "precio": 27600,
+        "descripcion": "Las zapatillas Nike Court Royale 2 son una renovación del estilo tenis clásico, pensadas para llevar moda a las calles. Están confeccionadas con material al menos en un 20% reciclado, suave al tacto y cómodo que reemplaza la piel de alto impacto. Su gran logo Swoosh nos transporta al pasado, en un nuevo calzado que no pierde lo simple pero que suma un estilo único y original a su portador. Estas zapatillas son tu nuevo aliado de esos planes que más disfrutás."
+    },
+    {
+        "id": 11,
+        "nombre": "Terrex Ax4 Gtx",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/terrexAx4Gtx.png?alt=media&token=33f68acc-96b1-4202-9996-9409e77ae6bb",
+        "marca": "Adidas",
+        "stock": [
+            {
+                "talle": 38,
+                "cantidad": 10
+            },
+            {
+                "talle": 42,
+                "cantidad": 10
+            },
+            {
+                "talle": 40,
+                "cantidad": 10
+            }
+        ],
+        "precio": 55000,
+        "descripcion": "Bienvenido a nuevas aventuras con las Zapatillas adidas Terrex Ax4 Gtx. Este calzado te invita a explorar terrenos con toda la comodidad y seguridad necesaria para que solo te concentres en disfrutar y recorrer nuevos senderos, desde montañas a calles y en condiciones secas o mojadas. Su diseño combina la ligereza de los modelos de running con la estabilidad de las zapatillas de senderismo. La suela de caucho Continental Rubber te ofrece un excelente agarra a la superficie para que tus experiencias sean siempre óptimas. Adempas, están hechas con al menos 50% de contenido reciclado. Un par que hace todo bien, ¿no?"
+    },
+    {
+        "id": 12,
+        "nombre": "Grand Court",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/grandcourt.png?alt=media&token=a4e49622-42d5-44e8-97a6-862107c9d315",
+        "marca": "Adidas",
+        "stock": [
+            {
+                "talle": 38,
+                "cantidad": 3
+            },
+            {
+                "talle": 39,
+                "cantidad": 2
+            },
+            {
+                "talle": 40,
+                "cantidad": 0
+            }
+        ],
+        "precio": 26000,
+        "descripcion": "Las Zapatillas adidas Grand Court son tus compañeras de excelencia. Con el diseño atemporal marcado por las 3Trayas pero con aires renovados para mantener tu estilo actual. Concentradas en el confort, la suavidad y versatilidad, incorporan la amortiguación Cloudfoam para que no solo piensas en el rendimiento a la hora de entrenar, sino todos los días. Hechas con contenido reciclado para que el bienestar sea total. Con este par, elegir las prendas para vestir será muy fácil. Porque van muy bien con todo!"
+    },
+    {
+        "id": 13,
+        "nombre": "Runfalcon 2.0",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/falcon2.png?alt=media&token=e166b670-2549-426b-b415-3281e8d299f3",
+        "marca": "Adidas",
+        "stock": [
+            {
+                "talle": 40,
+                "cantidad": 2
+            },
+            {
+                "talle": 41,
+                "cantidad": 1
+            },
+            {
+                "talle": 42,
+                "cantidad": 5
+            }
+        ],
+        "precio": 18000,
+        "descripcion": "Ponete estas zapatillas adidas de running para correr en el parque y luego tomar un café con amigos con total comodidad. Su exterior de malla ofrece transpirabilidad que mantiene tus pies frescos de la mañana a la noche. La suela tipo cupsole de caucho brinda la estabilidad necesaria para enfrentarte a todo lo que te depare el día."
+    },
+    {
+        "id": 14,
+        "nombre": "Ultraboost 22",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/ultraboost22.png?alt=media&token=9c429926-a8aa-46e5-bc7f-f121adb127b7",
+        "marca": "Adidas",
+        "stock": [
+            {
+                "talle": 38,
+                "cantidad": 4
+            },
+            {
+                "talle": 39,
+                "cantidad": 2
+            },
+            {
+                "talle": 40,
+                "cantidad": 1
+            },
+            {
+                "talle": 41,
+                "cantidad": 3
+            },
+            {
+                "talle": 42,
+                "cantidad": 4
+            },
+            {
+                "talle": 43,
+                "cantidad": 5
+            }
+        ],
+        "precio": 58000,
+        "descripcion": "Las Zapatillas adidas Ultraboost 22 son una mejora de su predecesor, con un calce perfeccionado y una suela que optimiza tu tracción día a día. El calce es ideal para los corredores más exigentes, con un tejido PRIMEKNIT en la capellada que se ajusta mejor a ellos para evitar resbalones y accidentes. La mediasuela BOOST mejora la amortiguación y su sistema Linear Energy Push garantiza el retorno de energía que necesitas para sumar kilómetros en cada salida."
+    },
+    {
+        "id": 1,
+        "nombre": "Eq21",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/eq21.png?alt=media&token=9e94497b-4765-4824-967b-a6078e1746a8",
+        "marca": "Adidas",
+        "stock": [
+            {
+                "talle": 40,
+                "cantidad": 10
+            },
+            {
+                "talle": 42,
+                "cantidad": 8
+            },
+            {
+                "talle": 43,
+                "cantidad": 5
+            }
+        ],
+        "precio": 28000,
+        "descripcion": "Acumulá kilómetros con confianza con estos tenis de running adidas. El exterior transpirable mantiene tus pies frescos mientras corrés largas distancias. La amortiguación liviana te da ese impulso que te anima a conquistar tu carrera desde la primera a la última zancada."
+    },
+    {
+        "id": 16,
+        "nombre": "Formula",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/Formula.png?alt=media&token=60e748ea-6732-48ab-baab-bc7adb329a06",
+        "marca": "Diadora",
+        "stock": [
+            {
+                "talle": 34,
+                "cantidad": 1
+            },
+            {
+                "talle": 35,
+                "cantidad": 3
+            },
+            {
+                "talle": 38,
+                "cantidad": 4
+            },
+            {
+                "talle": 36,
+                "cantidad": 12
+            }
+        ],
+        "precio": 17800,
+        "descripcion": "Capellada textil poliester con aportes en tpu. Mediasuela de eva con aporte de caucho sintético.Combina amortiguación ultrasensible y comodidad para mayor confort.La suavidad de la textura de la capellada se suma a la armonia de su fisionomía, para todos los días, garantizando la libertad y el relax al caminar."
+    },
+    {
+        "id": 17,
+        "nombre": "Corigliano",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/corigliano.png?alt=media&token=8fc942a9-f3bc-467c-8eaa-422f6a0c2ff7",
+        "marca": "Diadora",
+        "stock": [
+            {
+                "talle": 39,
+                "cantidad": 8
+            },
+            {
+                "talle": 42,
+                "cantidad": 5
+            },
+            {
+                "talle": 43,
+                "cantidad": 3
+            }
+        ],
+        "precio": 17300,
+        "descripcion": "ZAPATILLAS DIADORA CORIGLIANO Capellada textil poliéster con aportes en tpu. Mediasuela de eva y gel para mejorar la amortiguación."
+    },
+    {
+        "id": 5,
+        "nombre": "Graviton Pro",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/GravitonPro.png?alt=media&token=b0ca7919-4c72-4e7b-9e16-ed6d1414d2f9",
+        "marca": "Puma",
+        "stock": [
+            {
+                "talle": 40,
+                "cantidad": 5
+            },
+            {
+                "talle": 42,
+                "cantidad": 5
+            }
+        ],
+        "precio": 28600,
+        "descripcion": "Las Graviton Pro se inspiran en la colección de running tradicional de PUMA con una estética desenfada y sensación futurista. Una capa superpuesta en la zona del antepié, la llamativa marca y un atrevido clip modular en el talón aportan su magia ultramoderna a estas zapatillas. Y con una entresuela ligera y una plantilla acolchada SoftFoam+, te impulsarás tan lejos como quieras."
+    },
+    {
+        "id": 19,
+        "nombre": "Solarsmash Rct",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/solarsmashRct.png?alt=media&token=e6c0fb48-0b67-47e0-a21c-45b81b654593",
+        "marca": "Puma",
+        "stock": [
+            {
+                "talle": 35,
+                "cantidad": 8
+            },
+            {
+                "talle": 36,
+                "cantidad": 8
+            },
+            {
+                "talle": 38,
+                "cantidad": 3
+            },
+            {
+                "talle": 37,
+                "cantidad": 5
+            }
+        ],
+        "precio": 28600,
+        "descripcion": "Ábrete camino hacia la victoria en el pádel con las zapatillas Solarsmash Rct. Diseñados para dominar el juego, estos zapatos han sido construidos con suelas de goma adherentes para ayudarlo a cambiar de dirección rápidamente, amortiguación receptiva y una parte superior liviana para mantener sus pies frescos y apoyados durante largos días en la cancha. Desbloquea tu potencial de pádel y ábrete camino hacia la victoria tras la victoria."
+    },
+    {
+        "id": 20,
+        "nombre": "Gel-Rebound",
+        "img": "https://firebasestorage.googleapis.com/v0/b/varshoess.appspot.com/o/gelRebound.png?alt=media&token=04a8b68f-11a5-4547-96ee-33d2262087db",
+        "marca": "Asics",
+        "stock": [
+            {
+                "talle": 40,
+                "cantidad": 3
+            },
+            {
+                "talle": 41,
+                "cantidad": 3
+            },
+            {
+                "talle": 42,
+                "cantidad": 3
+            }
+        ],
+        "precio": 25800,
+        "descripcion": "Las zapatillas Asics Gel-Rebound están confeccionadas con materiales textiles y sintéticos que proporcionan comodidad, durabilidad y ligereza. Perfectas para tus sesiones de running gracias a su tecnología GEL que protege tu cuerpo del impacto generado en cada paso y ayuda a reducir la fatiga muscular. Su suela con tecnología AHAR presenta una mayor durabilidad gracias a los surcos de flexibilidad que posee."
+    }
+]

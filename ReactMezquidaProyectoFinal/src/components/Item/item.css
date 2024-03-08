@@ -1,0 +1,41 @@
+.cardHover:hover{
+    scale: 101%;
+    border: 1px solid rgba(0, 0, 255, 0.457);
+}
+.card img {
+    width: auto;
+    display: block;
+    margin: auto;
+    margin-top: 8px;
+    height: 8rem;
+}
+
+.card h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(2, 2, 119);
+    font-size: 25px;
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid black;
+    
+}
+
+.card h3 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: center;
+    color: rgb(7, 7, 119);
+    font-weight:530;
+    font-size: 20px;
+}
+
+.card a {
+    margin: auto;
+    margin-top: 8px;
+}
