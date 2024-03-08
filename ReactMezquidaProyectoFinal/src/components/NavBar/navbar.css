@@ -1,0 +1,27 @@
+/* Estilo para el enlace activo */
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.active:hover {
+  background-color: rgba(0, 0, 0, 0.2); /* Negro con transparencia */
+}
+
+/* Estilo para el menú desplegable */
+.navbar-dark .navbar-nav .dropdown-menu {
+  color: white; /* Texto blanco */
+}
+
+/* Estilo para los elementos del menú desplegable */
+.navbar-dark .navbar-nav .dropdown-menu .dropdown-item {
+  color: rgba(238, 238, 238, 0.63); /* Texto blanco */
+}
+
+/* Estilo para los elementos del menú desplegable al pasar el cursor por encima */
+.navbar-dark .navbar-nav .dropdown-menu .dropdown-item:hover {
+  background-color: rgba(0, 0, 0, 0.1); /* Negro con transparencia */
+  color: white;
+}
+
+/* Estilo para el enlace activo del menú desplegable */
+.navbar-dark .navbar-nav .dropdown-menu .dropdown-item.active,
+.navbar-dark .navbar-nav .dropdown-menu .dropdown-item.active:hover {
+  background-color: rgba(0, 0, 0, 0.2); /* Negro con transparencia */
+}
