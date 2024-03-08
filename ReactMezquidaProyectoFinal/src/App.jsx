@@ -12,17 +12,17 @@ import Footer from './components/Footer/Footer'
 
 function App() {
   return (
-      <StockProvider>
-        <CartProvider>
-          <Router basename="/React-ProyectoFinal">
-            <div className='body'>
-              <NavBar />
-              <AppRoutes />
-            </div>
-          </Router>
-        </CartProvider>
-        <Footer />
-      </StockProvider>
+    <StockProvider>
+      <CartProvider>
+        <Router basename="/React-ProyectoFinal">
+          <div className='body'>
+            <NavBar />
+            <AppRoutes />
+          </div>
+        </Router>
+      </CartProvider>
+      <Footer />
+    </StockProvider>
   )
 }
 
