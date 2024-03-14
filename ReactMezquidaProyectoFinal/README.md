@@ -1,6 +1,5 @@
-Se usa la libreria npm de GH Pages. Pero para evitar problemas con el routeado de url las modificaciones que se realicen en el proyecto para ser reflejadas en el GH Page deberán ser las siguientes:<br>
-1- npm run build<br>
-2- npm run deploy<br>
+En caso de tener problema con firebase tocar el boton de inicio REINICIAR SERVIDOR (porque ha habido casos cuando lo monto que los productos no cargaban) 
+
 
 
 Componentes del proyecto:
