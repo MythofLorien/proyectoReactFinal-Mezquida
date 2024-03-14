@@ -15,12 +15,10 @@ function App() {
   return (
     <StockProvider>
       <CartProvider>
-        <Router basename="/ReactMezquidaProyectoFinal">
-          <div className='body'>
-            <NavBar />
-            <AppRoutes />
-          </div>
-        </Router>
+        <div className='body'>
+          <NavBar />
+          <AppRoutes />
+        </div>
       </CartProvider>
       <Footer />
     </StockProvider>
