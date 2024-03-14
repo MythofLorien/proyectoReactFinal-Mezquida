@@ -26,7 +26,9 @@ Tecnologias usadas:
 - GH pages
 
 Dev del proyecto: Lara Sol Mezquida
+
 Año: 2024
+
 Cursada: Coder House React Comision 60810 
 
 - Se adjunta en Assets Previews de la pagina Funcional -
