@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css'
 import { StockProvider } from "./context/StockContext"
 import { CartProvider } from './context/CartContext'
@@ -14,7 +15,7 @@ function App() {
   return (
     <StockProvider>
       <CartProvider>
-        <Router basename="/React-ProyectoFinal">
+        <Router basename="/ReactMezquidaProyectoFinal">
           <div className='body'>
             <NavBar />
             <AppRoutes />

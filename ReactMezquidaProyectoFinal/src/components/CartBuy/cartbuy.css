@@ -99,20 +99,23 @@
 }
 
 .modal-content input {
-    width: 200px; /* Ancho deseado para los inputs */
+    width: 200px;
+    /* Ancho deseado para los inputs */
     position: absolute;
     right: 0;
     margin-right: 20px;
     border: 1px solid #ccc;
 }
+
 .modal-content .input-error input {
     border: 2px solid #ff0000;
-  }
-  
-  .modal-content .error {
+}
+
+.modal-content .error {
     color: red;
     margin-top: 5px;
-  }
+}
+
 .modal-content button {
     margin-top: 10px;
 }
@@ -133,11 +136,12 @@
 }
 
 
-.card-cartBuy-disable h2{
+.card-cartBuy-disable h2 {
     color: rgba(41, 41, 41, 0.329);
     border-bottom: 1px solid rgba(92, 91, 91, 0.096);
 }
-.card-cartBuy-disable h4{
+
+.card-cartBuy-disable h4 {
     color: rgba(99, 99, 99, 0.329);
     font-size: 18px;
     margin: 15px;

@@ -31,7 +31,7 @@ export const StockProvider = ({ children }) => {
     }, [filtObj]);
 
     return (
-        <StockContext.Provider value={{ stock, setFiltObj,filtObj }}>
+        <StockContext.Provider value={{ stock, setFiltObj, filtObj }}>
             {children}
         </StockContext.Provider>
     );
